@@ -26,7 +26,7 @@ A full technical brief with screenshots and detailed steps is included in this r
 - **Nmap**
 - **tar**
 
-# Key Hardening Steps
+# Methodology
 ### 1. User & Group Auditing
 - Reviewed all system users and groups
 - Verified authorized sudo users
