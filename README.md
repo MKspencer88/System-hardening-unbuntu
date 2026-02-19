@@ -100,3 +100,5 @@ The following files are included in this repository:
 # Summary
 This project demonstrates my ability to audit, secure, and validate a Linux system using real-world defensive techniques. It reflects the same workflows used in SOC, sysadmin, and blue team environmens and showcases my attention to detail, curiosity, and commitment to doing thing correctly.
 
+[Full technical brief](https://github.com/MKspencer88/System-hardening-unbuntu/blob/main/artifacts/MK%20Spencer%20Project%201%20Techincal%20Brief.pdf)
+
